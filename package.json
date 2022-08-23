@@ -1,0 +1,14 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "version": "1.0.2",
+  "name": "replit-graphql-api",
+  "description": "A module to easily interact with Replit's graphql API!",
+  "keywords": ["replit", "graphql", "api"],
+  "dependencies": {
+    "json-to-graphql-query": "^2.2.4",
+    "node": "^16.17.0",
+    "npm": "^8.18.0",
+    "yarn": "^1.22.19"
+  }
+}
